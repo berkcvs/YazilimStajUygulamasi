@@ -1,0 +1,152 @@
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\bin\Debug\Satış.exe.config
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\bin\Debug\Satış.exe
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\bin\Debug\Satış.pdb
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\obj\Debug\Satış.csprojResolveAssemblyReference.cache
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\obj\Debug\Satış.Form1.resources
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\obj\Debug\Satış.Properties.Resources.resources
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\obj\Debug\Satış.csproj.GenerateResource.Cache
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\obj\Debug\Satış.exe
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\obj\Debug\Satış.pdb
+c:\users\ke-\documents\visual studio 2012\Projects\Satış\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\Ke-\Documents\Visual Studio 2012\Projects\Satış\Satış\bin\Debug\veritabani.mdb
+C:\Users\Ke-\Documents\Visual Studio 2012\Projects\Satış\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\Ke-\Documents\Visual Studio 2012\Projects\Satış\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\bin\Debug\Satış.exe.config
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.exe
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.pdb
+C:\Users\Oğuzhan\Desktop\Satış\Satış\bin\Debug\veritabani.mdb
+C:\Users\Oğuzhan\Desktop\Satış\Satış\bin\Debug\Satış.exe
+C:\Users\Oğuzhan\Desktop\Satış\Satış\bin\Debug\Satış.pdb
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.Form1.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\obj\Debug\Satış.csproj.GenerateResource.Cache
+C:\Users\Ke-\Desktop\Satış\Satış\bin\Debug\Satış.exe.config
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.exe
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.pdb
+C:\Users\Ke-\Desktop\Satış\Satış\bin\Debug\veritabani.mdb
+C:\Users\Ke-\Desktop\Satış\Satış\bin\Debug\Satış.exe
+C:\Users\Ke-\Desktop\Satış\Satış\bin\Debug\Satış.pdb
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.csprojResolveAssemblyReference.cache
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.Form1.resources
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.Properties.Resources.resources
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\Ke-\Desktop\Satış\Satış\obj\Debug\Satış.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\bin\Debug\Satış.exe.config
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.exe
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.pdb
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\bin\Debug\veritabani.mdb
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\bin\Debug\Satış.exe
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\bin\Debug\Satış.pdb
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.Form1.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\Oğuzhan\Desktop\Satış\Satış\Satış\obj\Debug\Satış.csproj.GenerateResource.Cache
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\bin\Debug\Satış.exe.config
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.exe
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.pdb
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\bin\Debug\veritabani.mdb
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\bin\Debug\Satış.exe
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\bin\Debug\Satış.pdb
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.csprojResolveAssemblyReference.cache
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.Form1.resources
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.Properties.Resources.resources
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\Ke-\Desktop\Satışson\Satış\Satış\obj\Debug\Satış.csproj.GenerateResource.Cache
+C:\Users\Ke\Desktop\11\Satış\bin\Debug\Satış.exe.config
+C:\Users\Ke\Desktop\11\Satış\obj\Debug\Satış.exe
+C:\Users\Ke\Desktop\11\Satış\obj\Debug\Satış.pdb
+C:\Users\Ke\Desktop\PizzaTakip\Satış\bin\Debug\Satış.exe.config
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.exe
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.pdb
+C:\Users\Ke\Desktop\PizzaTakip\Satış\bin\Debug\veritabani.mdb
+C:\Users\Ke\Desktop\PizzaTakip\Satış\bin\Debug\Satış.exe
+C:\Users\Ke\Desktop\PizzaTakip\Satış\bin\Debug\Satış.pdb
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.csprojResolveAssemblyReference.cache
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Form1.resources
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Properties.Resources.resources
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.csproj.GenerateResource.Cache
+C:\Users\Ke\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Form2.resources
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\bin\Debug\Satış.exe.config
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.exe
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.pdb
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\bin\Debug\veritabani.mdb
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\bin\Debug\Satış.exe
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\bin\Debug\Satış.pdb
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Form1.resources
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Form2.resources
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\Oğuzhan\Desktop\PizzaTakip\Satış\obj\Debug\Satış.csproj.GenerateResource.Cache
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\bin\Debug\veritabani.mdb
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\bin\Debug\Satış.exe.config
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\bin\Debug\Satış.exe
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\bin\Debug\Satış.pdb
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.Form1.resources
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.Form2.resources
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.exe
+C:\Users\MONSTER\Desktop\Son\Staj Projesi\Pizza Takip\PizzaTakip\Satış\obj\Debug\Satış.pdb
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\bin\Debug\veritabani.mdb
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\bin\Debug\Satış.exe.config
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\bin\Debug\Satış.exe
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\bin\Debug\Satış.pdb
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Form1.resources
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Form2.resources
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.gunluk.resources
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.musteri.resources
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.siparisver.resources
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.exe
+C:\Users\MONSTER\Desktop\PizzaTakip\Satış\obj\Debug\Satış.pdb
+D:\Berk\PizzaTakip\Satış\bin\Debug\veritabani.mdb
+D:\Berk\PizzaTakip\Satış\bin\Debug\Satış.exe.config
+D:\Berk\PizzaTakip\Satış\bin\Debug\Satış.exe
+D:\Berk\PizzaTakip\Satış\bin\Debug\Satış.pdb
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.csprojAssemblyReference.cache
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.Form1.resources
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.Form2.resources
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.gunluk.resources
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.musteri.resources
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.Properties.Resources.resources
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.siparisver.resources
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.csproj.GenerateResource.cache
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.exe
+D:\Berk\PizzaTakip\Satış\obj\Debug\Satış.pdb
+D:\Berk\Staj Yazılımı\Satış\bin\Debug\veritabani.mdb
+D:\Berk\Staj Yazılımı\Satış\bin\Debug\Satış.exe.config
+D:\Berk\Staj Yazılımı\Satış\bin\Debug\Satış.exe
+D:\Berk\Staj Yazılımı\Satış\bin\Debug\Satış.pdb
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.csprojAssemblyReference.cache
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.Form1.resources
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.Form2.resources
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.gunluk.resources
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.musteri.resources
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.Properties.Resources.resources
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.siparisver.resources
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.csproj.GenerateResource.cache
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.exe
+D:\Berk\Staj Yazılımı\Satış\obj\Debug\Satış.pdb

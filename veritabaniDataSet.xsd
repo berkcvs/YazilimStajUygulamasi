@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="veritabaniDataSet" targetNamespace="http://tempuri.org/veritabaniDataSet.xsd" xmlns:mstns="http://tempuri.org/veritabaniDataSet.xsd" xmlns="http://tempuri.org/veritabaniDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="veritabaniConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="veritabaniConnectionString (Settings)" PropertyReference="ApplicationSettings.Satış.Properties.Settings.GlobalReference.Default.veritabaniConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="musteriTableAdapter" GeneratorDataComponentClassName="musteriTableAdapter" Name="musteri" UserDataComponentName="musteriTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="veritabaniConnectionString (Settings)" DbObjectName="musteri" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT kadi, adi, soyadi, telefon, adres FROM musteri</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="kadi" DataSetColumn="kadi" />
+              <Mapping SourceColumn="adi" DataSetColumn="adi" />
+              <Mapping SourceColumn="soyadi" DataSetColumn="soyadi" />
+              <Mapping SourceColumn="telefon" DataSetColumn="telefon" />
+              <Mapping SourceColumn="adres" DataSetColumn="adres" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="veritabaniConnectionString (Settings)" DbObjectName="musteri" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Fill" GenerateShortCommands="true" GeneratorSourceName="FillBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT kadi, adi, soyadi, telefon, adres FROM musteri Where kadi = silbox.Text</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="veritabaniDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="veritabaniDataSet" msprop:Generator_UserDSName="veritabaniDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="musteri" msprop:Generator_TableClassName="musteriDataTable" msprop:Generator_TableVarName="tablemusteri" msprop:Generator_RowChangedName="musteriRowChanged" msprop:Generator_TablePropName="musteri" msprop:Generator_RowDeletingName="musteriRowDeleting" msprop:Generator_RowChangingName="musteriRowChanging" msprop:Generator_RowEvHandlerName="musteriRowChangeEventHandler" msprop:Generator_RowDeletedName="musteriRowDeleted" msprop:Generator_RowClassName="musteriRow" msprop:Generator_UserTableName="musteri" msprop:Generator_RowEvArgName="musteriRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kadi" msprop:Generator_ColumnVarNameInTable="columnkadi" msprop:Generator_ColumnPropNameInRow="kadi" msprop:Generator_ColumnPropNameInTable="kadiColumn" msprop:Generator_UserColumnName="kadi" type="xs:int" minOccurs="0" />
+              <xs:element name="adi" msprop:Generator_ColumnVarNameInTable="columnadi" msprop:Generator_ColumnPropNameInRow="adi" msprop:Generator_ColumnPropNameInTable="adiColumn" msprop:Generator_UserColumnName="adi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="soyadi" msprop:Generator_ColumnVarNameInTable="columnsoyadi" msprop:Generator_ColumnPropNameInRow="soyadi" msprop:Generator_ColumnPropNameInTable="soyadiColumn" msprop:Generator_UserColumnName="soyadi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telefon" msprop:Generator_ColumnVarNameInTable="columntelefon" msprop:Generator_ColumnPropNameInRow="telefon" msprop:Generator_ColumnPropNameInTable="telefonColumn" msprop:Generator_UserColumnName="telefon" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="adres" msprop:Generator_ColumnVarNameInTable="columnadres" msprop:Generator_ColumnPropNameInRow="adres" msprop:Generator_ColumnPropNameInTable="adresColumn" msprop:Generator_UserColumnName="adres" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
